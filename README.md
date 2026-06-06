@@ -1,4 +1,4 @@
-# Clustering of Remote-Sensing (ДЗЗ) Images — ГРУПА ВИМОГ 2
+# Clustering of Remote-Sensing Images
 
 Cluster a set of Earth-surface remote-sensing images by visual features using
 classical ML clustering. **No deep learning.** Full pipeline in
